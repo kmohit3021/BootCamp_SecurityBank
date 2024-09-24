@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Web And API</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>e2b207aa-d123-4095-afe6-1337d36c9a63</testCaseGuid>
+</TestCaseEntity>

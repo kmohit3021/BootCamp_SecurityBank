@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Demo</name>
+   <tag>smoke</tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>9da8b9b4-9d60-4d90-a4e6-469819d2c372</testCaseGuid>
+</TestCaseEntity>

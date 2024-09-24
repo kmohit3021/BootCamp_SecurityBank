@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description></description>
+   <name>TC001_Token</name>
+   <tag></tag>
+   <comment></comment>
+   <recordOption>OTHER</recordOption>
+   <testCaseGuid>dc5d9fa4-5aa6-4f88-b6cd-bae0f9b9c206</testCaseGuid>
+</TestCaseEntity>
